@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Xenith- St. Xaviers College</title>
+<body>
+<img src="dept.jpeg" alt="Dept of IT board, ST. Xaviers College" width = "250">
+<h1 align = "center> Xenith </h1>
+<h2 align = "center>Bsc IT departmental fest</h2>
+
+Xenith is a department festival celebrated once in <two years 
+
+The theme for Xenith 2020 was Glitches to Perfection and was scheduled for 17 and 18 January. During the two days, several events were organized.
+
+Xenith 2020 marked it's beginning by inaugurating the exhibition titled A Glitch in Time by respectable Principal Dr Rajendra Shinde. An exhibition showcasing the project work of the students was open to everyone for the entire day. The projects displayed included: A Dancing Robot, unity based games, a model Rocket, gesture recognition sensors, a 3D printer and much more. It was received with much appreciation from students as well as teachers from the entire college
+
+The first talk of the fest was conducted by Dr Paritosh K. Pandya, an Indian Computer Scientist and a Researcher at TIFR, on the topic ‘Intelligent Processing of Indian Music: where technology meets music’. This highly interesting and well-received session witnessed a discussion about applying computational learning and DSP techniques to Indian classical music. 
+
+Succeeding this, Xenith was honoured to have Dr Subhasis Chauduri, the director of IIT Bombay, for his talk on the topic: ‘Higher Education: the perspective of an Administrator’ which gave a broader and better perspective on pursuing higher studies as a college graduate and attracted an audience in large numbers. 
+
+Apart from these educational and insightful talk, Day 1 also included innovative and challenging events where students from different colleges of Mumbai participated. Bot The Builder, a gameshow event was held to challenge players’ wit, logical skills and teamwork. It included teams of two building their robot, metaphorically, with the help of challenging clues, solving demanding tasks, coming up with creative ideas, great team spirit and enthusiasm. 
+
+A Treasure Hunt named Glitch Don't Hitch was also organized for people with wanderlust. Participants had to face draining physical tasks as well as mind-boggling clues to crack and test out one's knowledge about Fort, Mumbai.
+
+The second and final day of Xenith included the much-awaited, exciting and thrilling Laser Tag Event. This event was a huge success in campus and saw a great turn out of students.
+
+A workshop was conducted by GreyAtom titled ‘Kung Fu Data With Pandas!’ which was a workshop on Pandas or Panel Data - a high performance, easy to use data analysis tool in Python used by Data Scientists and Analysts for a range of tasks that include cleaning, pre-processing and crunching data, digging deep and extracting insights from data. 
+
+The last spellbinding talk of Xenith was ‘Mapping Perfection: A Journey Through 3 Case Studies’ held by Mr Aashish Sharma, Co-Founder of ‘Enliten IT India’. The talk defined the journey of Glitches to Perfection through three case studies including his journey as a successful entrepreneur. 
+
+The two-day event finally came to end with the distribution of certificates and prizes for all events as well as participants and volunteers by Prof. Rachana Pandey, Staff-In-Charge of Xenith'20 and a congratulatory note by Mr Chirag Jain (student of TYIT), the Chairperson of Xenith'20.
+                                              
+</body>
+</head>
+</html>

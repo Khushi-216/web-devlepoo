@@ -1,0 +1,23 @@
+<html>
+<head>
+<title></title>
+</head>
+<body align="center">
+<h1> SYBSc-IT Subjects </h1>
+<h2> Semester III</h2>
+<ol start="i">
+<li>Web Development</li>
+<li><abbr title="Object Oriented Programming Systems">OOPS</abbr></li>
+<li>DBMS</li>
+<li value = "a">Minors</li>
+<li>OE</li>
+</ol>
+<h2> Semester IV</h2>
+<ul>
+<li>Discrete Mathematics & Statistics</li>
+<li>Data Structure using Java</li>
+<li>Unsupervised learning in Data Science</li>
+<li>Minors</li>
+</ul>
+</body>
+</html>
